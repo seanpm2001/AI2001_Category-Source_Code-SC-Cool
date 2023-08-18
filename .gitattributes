@@ -53,6 +53,9 @@
 *.cool linguist-detectable=true
 *.cool linguist-documentation=false
 *.cool linguist-language=Cool
+*.cl linguist-detectable=true
+*.cl linguist-documentation=false
+*.cl linguist-language=Cool
 # Makefile (GNU Make)
 *.mk linguist-detectable=true
 *.mk linguist-documentation=false
@@ -187,7 +190,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2023, Friday, August 18th at 3:33 pm PST)
-# Line count (including blank lines and compiler line): 194
+# File version: 6 (2023, Friday, August 18th at 3:35 pm PST)
+# Line count (including blank lines and compiler line): 197
 
 # End of script
